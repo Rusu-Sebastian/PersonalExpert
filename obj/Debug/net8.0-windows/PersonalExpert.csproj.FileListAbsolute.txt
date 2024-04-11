@@ -1,0 +1,14 @@
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\obj\Debug\net8.0-windows\PersonalExpert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\obj\Debug\net8.0-windows\PersonalExpert.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\obj\Debug\net8.0-windows\PersonalExpert.AssemblyInfo.cs
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\obj\Debug\net8.0-windows\PersonalExpert.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\bin\Debug\net8.0-windows\PersonalExpert.exe
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\bin\Debug\net8.0-windows\PersonalExpert.deps.json
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\bin\Debug\net8.0-windows\PersonalExpert.runtimeconfig.json
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\bin\Debug\net8.0-windows\PersonalExpert.dll
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\bin\Debug\net8.0-windows\PersonalExpert.pdb
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\obj\Debug\net8.0-windows\PersonalExpert.dll
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\obj\Debug\net8.0-windows\refint\PersonalExpert.dll
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\obj\Debug\net8.0-windows\PersonalExpert.pdb
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\obj\Debug\net8.0-windows\PersonalExpert.genruntimeconfig.cache
+C:\Users\WINDOWS 11\proiecte programare\PersonalExpert\PersonalExpert - Code\PersonalExpert\PersonalExpert\obj\Debug\net8.0-windows\ref\PersonalExpert.dll
