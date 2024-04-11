@@ -93,8 +93,21 @@ namespace PersonalExpert
 
         static void CreareCont()
         {
-            // si aici cod
+           using streamreader cn = new streamreader("Utilizatori.txt");
+            Console.WriteLine("Introduceti numele dvs.: ");
+            string utilizator = console.readline();
+            cn.writeline(utilizator + endl);
+
+            console.writeline("Alegeti parola: ");
+            string parola = console.readline();
+            cn.writeline(parola + endl);
+
+            console.writeline("Introduceti email-ul: ");
+            string email = console.readline();
+            cn.writeline(email + endl);
+
             Console.WriteLine("Contul a fost creat cu succes!");
+            return Autentificare();
         }
 
         static void MeniuPrincipal()
