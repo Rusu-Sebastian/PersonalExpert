@@ -26,9 +26,33 @@ namespace PersonalExpert
 
         public static bool Autentificare()
         {
+            console.WriteLine("Aveti cont? (da/nu)");
+            string raspuns1 = console.ReadLine();
+            if (raspuns1.ToLower() == "da")
+                {
+                    return;
+                }
+                else
+                {
+                    Console.WriteLine("Doriti sa creati unul? (da/nu)");
+                    string raspuns2 = Console.ReadLine();
+                    if (raspuns2.ToLower() == "da")
+                    {
+                        CreareCont();
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                }
             Console.WriteLine("Vă rugăm să vă autentificați.");
+            Console.WriteLine("Introduceți numele de utilizator: ");
+            string numeUtilizator = Console.ReadLine();
+            Console.WriteLine("Introduceți parola: ");
+            string parola = Console.ReadLine();
+            
 
-            bool areCont = VerificareCont();
+            bool areCont = VerificareCont(numeUtilizator, parola);
 
             if (areCont)
             {
@@ -52,11 +76,19 @@ namespace PersonalExpert
             }
         }
 
-        static bool VerificareCont()
+        static bool VerificareCont(string numeUtilizator, string parola)
         {
-            // Aici trebuie cod
-            //true sau false daca exista sau nu
-            return false;
+            using streamreader sr = new streamreader("Utilizatori.txt");
+            if numeUtilizator == sr.readline() && parola == sr.readline()
+            {
+                Console.WriteLine("Autentificare reușită!");
+                return true;
+            }
+            else
+            {
+                Console.WriteLine("Autentificare eșuată. Nume de utilizator sau parolă incorecte.");
+                return false;
+            }
         }
 
         static void CreareCont()
